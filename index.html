@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GreenBot Protocol</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- ethers (VERSÃO CORRETA) -->
+
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.10.0/dist/ethers.umd.min.js"></script>
+
+</head>
+
+<body>
+
+<h1>🌱 GreenBot Protocol</h1>
+
+<button onclick="connect()">🔗 Conectar Wallet</button>
+
+<p id="wallet"></p>
+
+<hr>
+
+<h2>💰 Staking</h2>
+<input id="amount" placeholder="Quantidade">
+<br>
+<button onclick="approve()">1. Aprovar</button>
+<button onclick="stake()">2. Stake</button>
+<button onclick="withdraw()">3. Withdraw</button>
+
+<hr>
+
+<h2>🤖 NFT</h2>
+<button onclick="mintNFT()">Mint NFT</button>
+
+<hr>
+
+<h2>🗳️ DAO</h2>
+<input id="proposalId" placeholder="ID proposta">
+<br>
+<button onclick="vote()">Votar</button>
+
+<script src="config.js"></script>
+
+<script src="app.js"></script>
+
+</body>
+</html>
