@@ -1,6 +1,6 @@
-🌱 GreenBot Protocol - Web3 MVP
+🌱 GreenBot Protocol - Web3
 
-Este repositório contém o código-fonte do GreenBot Protocol, um ecossistema descentralizado desenvolvido como projeto final da Residência em TIC 29. O protocolo integra governança, ativos digitais e incentivos financeiros para promover a fabricação de robôs utilizando plástico 100% reciclado.  
+
 📋 Visão Geral
 
 O GreenBot combina a transparência da blockchain com a sustentabilidade ambiental. Através deste protocolo, a comunidade pode decidir quais modelos de robôs serão produzidos, enquanto os apoiadores recebem recompensas financeiras e digitais (NFTs) pelo seu engajamento.  
